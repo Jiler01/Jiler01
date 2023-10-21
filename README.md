@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rehan</h1>
-<h3 align="center">A french student</h3>
 
 - 🔭 I’m currently working on [my frontpage](https://github.com/Jiler01/my-frontpage)
 
